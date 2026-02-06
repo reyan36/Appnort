@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="appnort.ico" alt="Appnort Logo" width="80">
-
 # Appnort
 
 **Smart Software Audit Tool for Windows**
