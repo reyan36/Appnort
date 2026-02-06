@@ -5,7 +5,7 @@ python -m pip install pyinstaller
 echo.
 echo Building Appnort executable...
 echo This may take a minute.
-python -m PyInstaller --noconfirm --onedir --windowed --name "Appnort" --add-data "appnort;appnort" --icon="appnort.png" entry_point.py
+python -m PyInstaller --noconfirm --onedir --windowed --name "Appnort" --add-data "appnort;appnort" --icon="appnort.ico" entry_point.py
 
 echo.
 echo Build complete!
