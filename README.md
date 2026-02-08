@@ -193,7 +193,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Reyan Arshad** — [@reyan36](https://github.com/reyan36)
+**Reyan Arshad** — [@reyan36](https://www.linkedin.com/in/reyan36/)
 
 ---
 
